@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "132598488503",
+    "firebase_url": "https://the-trader-mobile.firebaseio.com",
+    "project_id": "the-trader-mobile",
+    "storage_bucket": "the-trader-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132598488503:android:9e8c7e89cee450b0",
+        "android_client_info": {
+          "package_name": "com.ismailawa.the_trader_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132598488503-nbdpq47u6kd2su2br9ttipl64o44rvti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ismailawa.the_trader_mobile",
+            "certificate_hash": "2d64962121c2c60035893eb2d3a7a03528ea3520"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzkO6sHTTl-o-SZtwbhsgElnbm7Qjg0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132598488503-e4fe1jvjetlrbfo92mo6hj3v823gnppg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
